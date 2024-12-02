@@ -27,7 +27,7 @@ def main():
     # your app and have thousands of users) Typically, your API key will be in another Python file that
     # GitHub will not fork when asked to download
     # https://platform.openai.com/api-keys
-    openai.api_key = "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"
+    openai.api_key = "IGOTAPIKEYHOWEVERIDONOTWANTOEXPOSEIT"
 
     # Print a welcome message
     print("\nYou find yourself in a well-lit white room where a folding chair simply resides. You can't help but feel that the chair is very special, perhaps you should check it out... (Type quit to quit) \n")
