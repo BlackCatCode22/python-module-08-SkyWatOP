@@ -25,7 +25,7 @@ def generate_response(user_input):
 def main():
     # Use your own from OpenAI (there is a cost for this, but it is not much if you do not deploy
     # your app and have thousands of users) Typically, your API key will be in another Python file that
-    # GitHub will not fork when asked to download
+    # GitHub will not fork when asked to
     # https://platform.openai.com/api-keys
     openai.api_key = "IGOTAPIKEYHOWEVERIDONOTWANTOEXPOSEIT"
 
